@@ -23,3 +23,4 @@ Objective of exercise:
 
 To explore the use of Marxan to evaluate Bolivia’s current protected area network, and select a new protected area network to fulfill a specific species area target.
 
+Further detial about the theory, methodology , results and conculsions please check the presentation. 
